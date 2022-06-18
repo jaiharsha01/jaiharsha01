@@ -8,5 +8,8 @@ A passionate Mechanical Engineer and Aeroplane enthusiastic.
 - 💬 Ask me about Mechanical things
 - 📫 How to reach me: jaiharsha2001@gmail.com
 - 😄 Pronouns: He
+- 🌐 And also check this out: https://www.linkedin.com/in/jai-harsha-gunda-368532190/
+- :camera: My photography page https://www.instagram.com/jaiharsha_gunda/
+- Look at my Behance photography profile https://www.behance.net/jaiharshagunda
 
 I'm a type of candidate who is self motivated , hardworking. I will change the world with which I have learnt till the day. My main focus is manufacturing and design in automotive industry ,to learn and explore it.
