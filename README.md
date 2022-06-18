@@ -1,9 +1,8 @@
-### Hola I'm Jai Harsha! 👋
+<h1 align="center"> Hola I'm Jai Harsha! 👋
 
-<img src="https://img.icons8.com/color/48/undefined/mechanic.png"/>
+<h1 align="center"> <img src="https://img.icons8.com/color/48/undefined/mechanic.png"/>
 
----
-A passionate Mechanical Engineer and Aeroplane enthusiastic.
+<h3 align="center"> A passionate Mechanical Engineer and Aeroplane enthusiastic.</h3>
 
 - 🔭 I’m currently Looking for internship.
 - 🌱 I’m currently learning Automobile in Mechanical.
