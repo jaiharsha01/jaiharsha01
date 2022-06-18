@@ -56,4 +56,4 @@ I'm a type of candidate who is self motivated , hardworking. I will change the w
 ---
 ### :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaiharsha01&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaiharsha01&theme=black-ice)](https://git.io/streak-stats)
