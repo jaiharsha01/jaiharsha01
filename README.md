@@ -1,4 +1,7 @@
 ### Hola I'm Jai Harsha! 👋
+
+<img src="https://img.icons8.com/color/48/undefined/mechanic.png"/>
+
 ---
 A passionate Mechanical Engineer and Aeroplane enthusiastic.
 
@@ -14,6 +17,7 @@ A passionate Mechanical Engineer and Aeroplane enthusiastic.
 
 I'm a type of candidate who is self motivated , hardworking. I will change the world with which I have learnt till the day. My main focus is manufacturing and design in automotive industry ,to learn and explore it.
 
+![](https://komarev.com/ghpvc/?username=jaiharsha01)
 ---
 
 <div id="header" align="center">
@@ -57,3 +61,8 @@ I'm a type of candidate who is self motivated , hardworking. I will change the w
 ### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaiharsha01&theme=black-ice)](https://git.io/streak-stats)
+
+![Activity graph](https://activity-graph.herokuapp.com/graph?username=jaiharsha01)
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiharsha01&show_icons=true&theme=radical)
+---
