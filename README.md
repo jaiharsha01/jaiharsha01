@@ -7,7 +7,7 @@ A passionate Mechanical Engineer and Aeroplane enthusiastic.
 - 👨‍💻 All of my projects are available at https://github.com/jaiharsha01
 - 💬 Ask me about Mechanical things
 - 📫 How to reach me: jaiharsha2001@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - 🌐 And also check this out: https://www.linkedin.com/in/jai-harsha-gunda-368532190/
 - :camera: My photography page https://www.instagram.com/jaiharsha_gunda/
 - Look at my Behance photography profile https://www.behance.net/jaiharshagunda
