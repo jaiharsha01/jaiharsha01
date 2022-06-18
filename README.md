@@ -3,7 +3,7 @@
 A passionate Mechanical Engineer and Aeroplane enthusiastic.
 
 - 🔭 I’m currently Looking for internship.
-- 🌱 I’m currently learning Automobile subject in Mechanical.
+- 🌱 I’m currently learning Automobile in Mechanical.
 - 👨‍💻 All of my projects are available at https://github.com/jaiharsha01
 - 💬 Ask me about Mechanical things
 - 📫 How to reach me: jaiharsha2001@gmail.com
