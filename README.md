@@ -36,3 +36,24 @@ I'm a type of candidate who is self motivated , hardworking. I will change the w
 </div>
   
 ---
+
+  ### :hammer_and_wrench: Languages and Tools :
+<div>
+• Auto CAD
+• Solid Edge
+• NX 12.0
+• Adobe Light Room
+• Microsoft Office
+• ANSYS Workbench
+• Solid Works
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"title="Mathlab" alt="mathlab" width="40" height="40"/>&nbsp;
+</div>
+  
+---
+### :fire: My Stats :
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaiharsha01&theme=dark)](https://git.io/streak-stats)
