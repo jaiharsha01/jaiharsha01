@@ -30,7 +30,7 @@ I'm a type of candidate who is self motivated , hardworking. I will change the w
   <a href="https://twitter.com/jaiharshagunda">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href=" https://www.instagram.com/jaiharsha_gunda/">
+  <a href="https://www.instagram.com/jaiharsha_gunda/">
     <img src="https://img.shields.io/badge/Instgram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.behance.net/jaiharshagunda">
