@@ -1,6 +1,6 @@
 <h1 align="center"> Hola I'm Jai Harsha! 👋
 
-<h1 align="center"> <img src="https://designcorporation.co.in/wp-content/uploads/2021/04/Service.gif" width="250"/>
+<h1 align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7rQnW58ZAa6FZ5v6PvpPEyWWOTZL1xqAWyhpT90UGFEDry4OSPBEtgOmoR9DpQllBTT4&usqp=CAU" width="250"/>
   
 <h3 align="center"> A passionate Mechanical Engineer and Aeroplane enthusiastic.</h3>
 
