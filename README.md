@@ -4,7 +4,7 @@
   
 <h3 align="center"> A passionate Mechanical Engineer and Aeroplane enthusiastic.</h3>
 
-- 🔭 I’m currently Looking for internship.
+- 🔭 I’m currently Looking for job.
 - 🌱 I’m currently learning Automobile in Mechanical.
 - 👨‍💻 All of my projects are available at https://github.com/jaiharsha01
 - 💬 Ask me about Mechanical things
