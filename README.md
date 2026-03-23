@@ -4,10 +4,10 @@
   
 <h3 align="center"> A passionate Mechanical Engineer and Aeroplane enthusiastic.</h3>
 
-- 🔭 I’m currently looking for an internship.
-- 🌱 I’m currently studying for an MBA.
+- 🔭 I’m currently looking for Job.
+- 🌱 I completed my MBA.
 - 👨‍💻 All of my projects are available at https://github.com/jaiharsha01
-- 💬 Ask me about Mechanical things
+- 💬 Ask me about Mechanical things 
 - 📫 How to reach me: jaiharsha2001@gmail.com
 - 😄 Pronouns: He/Him
 - 🌐 And also check this out: https://www.linkedin.com/in/jai-harsha-gunda-368532190/
